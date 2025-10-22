@@ -1,2 +1,2 @@
-This is sample file
+This is sample file for checking push command on git bash
 
